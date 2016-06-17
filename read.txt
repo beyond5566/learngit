@@ -1,4 +1,4 @@
 ﻿Git is a distributed version control system.
 Git is free software.
 Git 有个暂存区。
-Git 再次修改。
+Git 再次修改了。
