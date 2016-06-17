@@ -1,3 +1,4 @@
 ﻿Git is a distributed version control system.
 Git is free software.
-Git有个暂存区。
+Git 有个暂存区。
+Git 修改。
